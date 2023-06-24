@@ -1,4 +1,4 @@
-<h2 align="center">Source code for Favoslav's website, simple and modern page built using HTML, JavaScript, and Tailwind CSS.</h2>
+<h1 align="center">Source code for Favoslav's website, simple and modern page built using HTML, JavaScript, and Tailwind CSS.</h1>
 
 ## Features
 
