@@ -1,0 +1,36 @@
+.footer-1 {
+  text-align: center;
+  padding-top:40px;
+  font-family:Verdana;
+  color:rgb(255, 255, 255)
+}
+.main-text {
+  text-align: center;
+  padding-top:40px;
+  font-family:Verdana;
+  color:rgb(255, 255, 255)
+}
+body {
+  background-color:rgb(18, 18, 18);
+}
+.perweb {
+  color:#b2dce1;
+}
+.discord {
+  color:rgb(208, 173, 226);
+}
+.github {
+  color:rgb(208, 173, 226);
+}
+.privacy-policy {
+  color:rgb(208, 173, 226);
+}
+.main-page {
+  color:rgb(208, 173, 226);
+}
+.sign {
+  color:rgb(255, 255, 255);
+}
+.boagc {
+  color:rgb(208, 173, 226);
+}

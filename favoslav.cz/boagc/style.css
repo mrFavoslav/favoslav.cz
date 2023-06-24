@@ -1,0 +1,29 @@
+.footer-1 {
+  text-align: center;
+  padding-top:10px;
+  font-family:Verdana;
+}
+.main-text {
+  text-align: center;
+  padding-top:40px;
+  font-family:Verdana;
+  color:rgb(255, 255, 255)
+}
+body {
+  background-color:rgb(18, 18, 18);
+}
+.perweb {
+  color:#b2dce1;
+  text-decoration: none;
+}
+.discord {
+  color:rgb(208, 173, 226);
+  text-decoration: none;
+}
+.sign {
+  color:rgb(255, 255, 255);
+}
+.mrbb {
+  color:rgb(208, 173, 226);
+  text-decoration: none;
+}
