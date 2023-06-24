@@ -11,12 +11,12 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-personal-website.git
+   git clone https://github.com/mrFavoslav/favoslav.cz.git
    ```
 
 2. Open the project directory:
    ```
-   cd your-personal-website
+   cd favoslav.cz
    ```
 
 3. Open the `favoslav.cz/index.html` file in your web browser to view the website locally.
