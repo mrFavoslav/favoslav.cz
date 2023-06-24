@@ -1,6 +1,4 @@
-# My Personal Website
-
-This is my personal website showcasing my portfolio, projects, and information about me. It is built using HTML, JavaScript, and Tailwind CSS.
+<h2 align="center">Source code for Favoslav's website, simple and modern page built using HTML, JavaScript, and Tailwind CSS.</h2>
 
 ## Features
 
