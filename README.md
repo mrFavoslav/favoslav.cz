@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, feel free to reach out to me:
 
 - Email: ochmel@favoslav.cz
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- Twitter: [@Favoslav_](https://twitter.com/favoslav_)
